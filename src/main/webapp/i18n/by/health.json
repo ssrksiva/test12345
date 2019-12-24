@@ -1,0 +1,27 @@
+{
+  "health": {
+    "title": "Cтан",
+    "refresh.button": "Абнавіць",
+    "stacktrace": "Трасіроўкі стэка",
+    "details": {
+      "details": "Дэталі",
+      "properties": "Параметры",
+      "name": "Імя",
+      "value": "Значэнне",
+      "error": "Памылка"
+    },
+    "indicator": {
+      "diskSpace": "Месца на дыску",
+      "mail": "Email"
+    },
+    "table": {
+      "service": "Назва сэрвісу",
+      "status": "Статус"
+    },
+    "status": {
+      "UNKNOWN": "UNKNOWN",
+      "UP": "UP",
+      "DOWN": "DOWN"
+    }
+  }
+}

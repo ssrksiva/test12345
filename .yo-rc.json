@@ -1,0 +1,121 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.siva.upsc",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.0.1",
+    "applicationType": "monolith",
+    "baseName": "projectupsc",
+    "packageName": "com.siva.upsc",
+    "packageFolder": "com/siva/upsc",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "MjAxZDcyYjJiZjBlMjUxYTBmMjU3OWY4ZTkzYjdmNTQ0NGRmOTg5ZWM0MWYwZGYzMGY0N2EwNzdiNmQ5MzFkY2QxOWVkNGI3MmMxYjhlZDRmMjVmMDQ4MGM0Yjg0OTZmMmU5ZmYxNGU1MDkyZTA2ZDk2MjAyMGExYWQxODYwNDU=",
+    "clientFramework": "angularX",
+    "clientTheme": "materia",
+    "clientThemeVariant": "primary",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": ["gatling", "cucumber", "protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [
+      {
+        "name": "generator-jhipster-standalone-profile",
+        "version": "2.3.0"
+      },
+      {
+        "name": "generator-jhipster-angular-material-integration",
+        "version": "1.0.17"
+      },
+      {
+        "name": "generator-jhipster-paypal",
+        "version": "1.0.5"
+      },
+      {
+        "name": "generator-jhipster-translation",
+        "version": "1.0.4"
+      },
+      {
+        "name": "generator-jhipster-kutilang",
+        "version": "0.0.4"
+      },
+      {
+        "name": "generator-jhipster-testcontainers",
+        "version": "0.1.1"
+      },
+      {
+        "name": "generator-jhipster-social-login-api",
+        "version": "0.0.1"
+      },
+      {
+        "name": "generator-jhipster-nav-element",
+        "version": "2.1.5"
+      },
+      {
+        "name": "generator-jhipster-aeropost",
+        "version": "1.14.0"
+      }
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "al",
+      "ar-ly",
+      "hy",
+      "by",
+      "bn",
+      "ca",
+      "zh-cn",
+      "zh-tw",
+      "cs",
+      "da",
+      "nl",
+      "et",
+      "fa",
+      "fr",
+      "gl",
+      "de",
+      "el",
+      "hi",
+      "hu",
+      "id",
+      "it",
+      "ja",
+      "ko",
+      "mr",
+      "my",
+      "pl",
+      "pt-br",
+      "pt-pt",
+      "ro",
+      "ru",
+      "sk",
+      "sr",
+      "es",
+      "sv",
+      "tr",
+      "ta",
+      "te",
+      "th",
+      "ua",
+      "uz-cyr",
+      "uz-lat",
+      "vi"
+    ]
+  }
+}
